@@ -1,0 +1,13 @@
+# MAKE
+=====
+*.d
+
+#==
+# logs temp
+#==
+*.log
+*.tmp
+*.cache
+
+./Untitle Folder
+
